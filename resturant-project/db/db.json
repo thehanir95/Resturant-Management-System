@@ -1,9 +1,22 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "users": [
+    {
+      "email": "anil@gmail",
+      "name": "Anil",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "email": "the@gmail",
+      "password": "123",
+      "name": "the",
+      "id": 2
+    },
+    {
+      "email": "kamal@test.com",
+      "password": "123",
+      "name": "kamal",
+      "id": 3
+    }
+  ]
+}
