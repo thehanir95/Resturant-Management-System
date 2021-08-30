@@ -66,5 +66,19 @@
       "name": "the",
       "id": 11
     }
+  ],
+  "resturants":[
+    {
+      "id":1,
+      "name":"Burger King",
+      "contact":1111112,
+      "address": "Negambo"
+    },
+    {
+      "id":2,
+      "name":"KFC",
+      "contact":777777,
+      "address": "Kandy"
+    }
   ]
 }
