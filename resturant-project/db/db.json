@@ -67,18 +67,36 @@
       "id": 11
     }
   ],
-  "resturants":[
+  "resturants": [
     {
-      "id":1,
-      "name":"Burger King",
-      "contact":1111112,
+      "id": 1,
+      "name": "Burger King",
+      "contact": 1111112,
       "address": "Negambo"
     },
     {
-      "id":2,
-      "name":"KFC",
-      "contact":777777,
+      "id": 2,
+      "name": "KFC",
+      "contact": 777777,
       "address": "Kandy"
+    },
+    {
+      "name": "ABC",
+      "address": "tyo",
+      "contact": 1234,
+      "id": 3
+    },
+    {
+      "name": "yui",
+      "address": "ghj",
+      "contact": "456878",
+      "id": 4
+    },
+    {
+      "name": "tttt",
+      "address": "sssssssss",
+      "contact": "7896452",
+      "id": 5
     }
   ]
 }
