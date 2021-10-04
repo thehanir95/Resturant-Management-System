@@ -34,7 +34,7 @@ export default{
            console.warn(result);
            if(result.status==201)
            {
-               alert("signup done");
+            //    alert("signup done");
                localStorage.setItem("use-info",JSON.stringify(result.data))
                this.$router.push({name:'Home'})
            }

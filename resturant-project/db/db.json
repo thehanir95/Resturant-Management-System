@@ -65,14 +65,26 @@
       "password": "456",
       "name": "the",
       "id": 11
+    },
+    {
+      "email": "sameera@gmail",
+      "password": "456",
+      "name": "thehani",
+      "id": 12
+    },
+    {
+      "email": "sam@g,ai.com",
+      "password": "789",
+      "name": "the",
+      "id": 13
     }
   ],
   "resturants": [
     {
-      "id": 1,
-      "name": "Burger King",
+      "name": "Burger King new",
+      "address": "Negambo",
       "contact": 1111112,
-      "address": "Negambo"
+      "id": 1
     },
     {
       "id": 2,
@@ -83,7 +95,7 @@
     {
       "name": "ABC",
       "address": "tyo",
-      "contact": 1234,
+      "contact": "999",
       "id": 3
     },
     {

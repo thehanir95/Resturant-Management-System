@@ -1,6 +1,6 @@
 <template>
 <Header />
-    <h1>Hello User, Welcome AddResturant page</h1>
+    <h1>Hello User , Welcome AddResturant page</h1>
     <form class="add">
         <input type="text" name="name" placeholder="Enter Name" v-model="resturants.name">
         <input type="text" name="address" placeholder="Enter Address" v-model="resturants.address">
